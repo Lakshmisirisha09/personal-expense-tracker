@@ -164,5 +164,5 @@ python main.py --report
 
 ## 👤 Author
 
-**Your Name**  
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+Lakshmi Sirisha 
+[GitHub](https://github.com/Lakshmisirisha09) · [LinkedIn](www.linkedin.com/in/lakshmisirisha-kuppala-a7524931a)
